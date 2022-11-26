@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSMS.Android", "AppSMS.Android\AppSMS.Android.csproj", "{64EA538B-134F-4876-8FE4-251FDAB06E7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSMS", "AppSMS\AppSMS.csproj", "{D36C597F-A938-4FE0-B10A-0F78E0CEE78F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64EA538B-134F-4876-8FE4-251FDAB06E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64EA538B-134F-4876-8FE4-251FDAB06E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64EA538B-134F-4876-8FE4-251FDAB06E7B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{64EA538B-134F-4876-8FE4-251FDAB06E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64EA538B-134F-4876-8FE4-251FDAB06E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64EA538B-134F-4876-8FE4-251FDAB06E7B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D36C597F-A938-4FE0-B10A-0F78E0CEE78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36C597F-A938-4FE0-B10A-0F78E0CEE78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36C597F-A938-4FE0-B10A-0F78E0CEE78F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D36C597F-A938-4FE0-B10A-0F78E0CEE78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36C597F-A938-4FE0-B10A-0F78E0CEE78F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36C597F-A938-4FE0-B10A-0F78E0CEE78F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8667BEC-4549-4B31-B2D4-B8DD5B711A6E}
+	EndGlobalSection
+EndGlobal
